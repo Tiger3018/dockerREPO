@@ -1,0 +1,4 @@
+Acquire::http::Proxy "";
+Acquire::http::Proxy {
+    mirrors.cqu.edu.cn DIRECT;
+}
